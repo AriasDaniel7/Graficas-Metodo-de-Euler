@@ -1,5 +1,5 @@
 import tkinter as tk
-
+# -----------Trabajar interfaz FALTA----------------
 class principal:
     def __init__(self) -> None:
         #---------Iniciar ventana------------
